@@ -1,0 +1,14 @@
+{
+  "patients": {
+    "1": {"name": "Rahul Sharma", "age": 32, "gender": "Male", "disease": "Diabetes", "admission_date": "2026-03-01"},
+    "2": {"name": "Anita Verma", "age": 45, "gender": "Female", "disease": "Hypertension", "admission_date": "2026-03-02"},
+    "3": {"name": "Amit Kumar", "age": 29, "gender": "Male", "disease": "Asthma", "admission_date": "2026-03-03"},
+    "4": {"name": "Priya Singh", "age": 36, "gender": "Female", "disease": "Migraine", "admission_date": "2026-03-04"},
+    "5": {"name": "Rohit Gupta", "age": 50, "gender": "Male", "disease": "Arthritis", "admission_date": "2026-03-05"},
+    "6": {"name": "Neha Patel", "age": 27, "gender": "Female", "disease": "Flu", "admission_date": "2026-03-06"},
+    "7": {"name": "Vikas Mehta", "age": 41, "gender": "Male", "disease": "Heart Disease", "admission_date": "2026-03-07"},
+    "8": {"name": "Sneha Kapoor", "age": 34, "gender": "Female", "disease": "Allergy", "admission_date": "2026-03-08"},
+    "9": {"name": "Karan Joshi", "age": 38, "gender": "Male", "disease": "Back Pain", "admission_date": "2026-03-09"},
+    "10": {"name": "Pooja Nair", "age": 31, "gender": "Female", "disease": "Thyroid", "admission_date": "2026-03-10"}
+  }
+}
